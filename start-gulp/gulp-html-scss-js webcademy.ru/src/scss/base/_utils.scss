@@ -18,3 +18,10 @@
 .no-scroll {
 	overflow-y: hidden;
 }
+
+body.no-scroll {
+	overflow: hidden;
+}
+body.mobile-nav--open {
+	overflow: hidden;
+}
